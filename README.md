@@ -6,11 +6,11 @@
 │                                                      │
 │       Building • Learning • Breaking • Securing      │
 │                                                      │
-│   Python  •  C  •  Linux  •  Git  •  Cybersecurity   │
+│   Python  •  C  •  Linux •  Cybersecurity            │
 │                                                      │
 │  ──────────────────────────────────────────────────  │
 │                                                      │
-│  👨‍💻 About me                                        │
+│  👨‍💻 About me                                         │
 │                                                      │
 │  Informatics student.                                │
 │  Currently learning software development and         │
